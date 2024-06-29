@@ -1,0 +1,8 @@
+name: Companies
+version: '${version}'
+main: me.wiceh.companies.Companies
+api-version: '1.16'
+authors: [wIceh]
+commands:
+  azienda:
+  cassa:
